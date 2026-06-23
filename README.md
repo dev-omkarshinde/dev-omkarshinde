@@ -1,6 +1,6 @@
 # Hi, I'm Omkar 👋
 
-First-year Computer Science (Data Science) student in Nagpur, India — learning to build things, and helping others start their own coding journey along the way.
+Computer Science (Data Science) student in Nagpur, India — learning to build things, and helping others start their own coding journey along the way.
 
 - 🎓 Pursuing a B.Tech in Computer Science (Data Science)
 - 🌱 Learning front-end web development (HTML, CSS, JavaScript) and strengthening my foundations in C, C++, Java, Python, SQL, and DSA
